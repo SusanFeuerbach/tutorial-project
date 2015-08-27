@@ -1,0 +1,60 @@
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Amaranth', sans-serif;
+}
+
+h1 {
+  background-color: burlywood;
+  padding: .3em 0 .4em .3em;
+}
+
+h3 {
+  background-color: #90C590;
+  padding: .3em 0 .4em .3em;
+}
+
+h4 {
+  background-color: #90C590;
+  padding: .3em 0 .4em .3em;
+}
+
+
+
+.text {
+  font-size: 1.2em;
+}
+
+.tools {
+  font-size: 1.2em; 
+}
+
+.supplies {
+  font-size: 1.2em;  
+}
+
+.fa.fa-paw {
+  font-size: 300%;  
+}
+
+.sisal {
+  margin: 0 10em 0 0
+}
+
+#prep-the-parts img {
+  height: 400px;
+}
+
+.tools {
+  list-style-type: square;
+}
+
+.supplies {
+  list-style-type: square;
+}
+
